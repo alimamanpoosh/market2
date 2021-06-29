@@ -1,1 +1,7 @@
-
+<RCC>
+    <qresource prefix="/image4">
+        <file>form3-icon.png</file>
+        <file>form3-image.jpg</file>
+        <file>form-image.jpg</file>
+    </qresource>
+</RCC>

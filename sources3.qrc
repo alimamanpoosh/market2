@@ -1,1 +1,14 @@
-
+<RCC>
+    <qresource prefix="/icon3">
+        <file>buy-icon-png-41307.png</file>
+        <file>icon_password.png</file>
+        <file>icon_username.png</file>
+        <file>login-button-png-18028.png</file>
+        <file>minimize-icon-23799.png</file>
+        <file>Screenshot 2021-06-24 114438.png</file>
+        <file>setting ic0n.png</file>
+    </qresource>
+    <qresource prefix="/image3">
+        <file>2.png</file>
+    </qresource>
+</RCC>

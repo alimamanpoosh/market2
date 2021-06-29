@@ -1,1 +1,8 @@
-
+<RCC>
+    <qresource prefix="/icons">
+        <file>close-icon.png</file>
+    </qresource>
+    <qresource prefix="/background">
+        <file>1.jpg</file>
+    </qresource>
+</RCC>
